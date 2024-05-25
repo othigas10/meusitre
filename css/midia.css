@@ -1,0 +1,97 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+.section-padding {
+	padding: 100px 0;
+}
+body {
+	background: #f1fbff;
+}
+
+
+.navbar-nav {
+	display: flex;
+	gap: 30px;
+}
+
+.logo {
+	width: 50px;
+}
+
+.logodnv {
+	width: 200px;
+	height: 200px;
+} 
+
+
+.video {
+	background-image: url(/img/back.jpg);
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 30px;
+}
+
+#section2 {
+	background-image: url(/img/back.jpg);
+	background-position: center;
+	background-size: cover;
+	margin: 90px;
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: center;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	padding: 20px;
+}
+
+.btn {
+	padding: 20px;
+}
+
+
+.container2 {
+	padding-top: 90px;
+	
+}
+
+.cards {
+	margin: 10px;
+}
+
+
+.text-primary{
+	font-size: 10%;
+}
+
+#section {
+	margin: 90px;
+}
+
+.col-img {
+	background-image: url(/img/c4.jpeg);
+	background-position: center;
+	background-size: cover;
+	min-height: 500px;
+}
+
+
+.logorodape {
+	margin-top: 10px;
+	width: 100px;
+}
+
+.footer-top {
+	padding-bottom: 90px;
+	padding: 20px;
+	background-color: #21252f
+}
+
+.footer-top a {
+	color: #888;
+	text-decoration: none;
+}

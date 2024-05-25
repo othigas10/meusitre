@@ -1,0 +1,72 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.section-padding {
+	padding: 100px 0;
+}
+body {
+	background: #f1fbff;
+}
+
+
+.navbar-nav {
+	display: flex;
+	gap: 30px;
+}
+
+.logo {
+	width: 50px;
+}
+
+
+.container1 {
+	padding-bottom: 90px;
+}
+
+.text-barra {
+	display: flex;
+	padding: 5px;
+	text-align: center;
+	margin: 30px;
+	
+}
+
+.cards {
+	margin: 10px;
+}
+
+.img-fluid {
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+	transition: transform .3s;
+}
+.img-fluid:hover {
+	transform: scale(1.1)
+}
+
+.text-primary{
+	font-size: 10%;
+}
+
+#section {
+	margin: 90px;
+}
+
+
+
+
+.logorodape {
+	margin-top: 10px;
+	width: 100px;
+}
+
+.footer-top {
+	padding-bottom: 90px;
+	padding: 20px;
+	background-color: #21252f
+}
+
+.footer-top a {
+	color: #888;
+	text-decoration: none;
+}
